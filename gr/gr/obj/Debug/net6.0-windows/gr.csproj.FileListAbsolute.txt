@@ -1,0 +1,17 @@
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\bin\Debug\net6.0-windows\gr.exe
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\bin\Debug\net6.0-windows\gr.deps.json
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\bin\Debug\net6.0-windows\gr.runtimeconfig.json
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\bin\Debug\net6.0-windows\gr.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\bin\Debug\net6.0-windows\gr.pdb
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.csproj.AssemblyReference.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.Form1.resources
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.csproj.GenerateResource.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.AssemblyInfoInputs.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.AssemblyInfo.cs
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.csproj.CoreCompileInputs.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\refint\gr.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.pdb
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\gr.genruntimeconfig.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\laboop-05\gr\gr\obj\Debug\net6.0-windows\ref\gr.dll
